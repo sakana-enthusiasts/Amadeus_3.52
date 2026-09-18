@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+python_files = ["*测试.py"]
+testpaths = ["测试"]
+addopts = "-q"

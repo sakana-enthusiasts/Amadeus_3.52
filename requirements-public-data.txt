@@ -1,0 +1,2 @@
+# Public evidence backend; pyarrow is already in requirements.txt.
+duckdb==1.5.5
