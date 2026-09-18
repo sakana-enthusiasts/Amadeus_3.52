@@ -1,0 +1,13 @@
+论文候选编号,论文名称,CAS号,SMILES,PubChemCID,PubChem名称,结构来源URL,结构来源,人工核对状态,结构状态,错误原因
+#0093,2-Amino-5-bromopyridine,1072-97-5,C1=CC(=NC=C1Br)N,70622,2-Amino-5-bromopyridine,https://pubchem.ncbi.nlm.nih.gov/compound/70622,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#0134,5-Chloroindole-2-carboxylic Acid,10517-21-2,C1=CC2=C(C=C1Cl)C=C(N2)C(=O)O,82693,5-Chloro-1H-indole-2-carboxylic acid,https://pubchem.ncbi.nlm.nih.gov/compound/82693,PubChem PUG REST（按 CAS 查询）,CAS 一致且名称为同义命名,已获得,
+#0498,2-Aminopyrazine,5049-61-6,C1=CN=C(C=N1)N,78747,Aminopyrazine,https://pubchem.ncbi.nlm.nih.gov/compound/78747,PubChem PUG REST（按 CAS 查询）,CAS 一致且名称为同义命名,已获得,
+#0640,Antipyrine (ANP),60-80-0,CC1=CC(=O)N(N1C)C2=CC=CC=C2,2206,Antipyrine,https://pubchem.ncbi.nlm.nih.gov/compound/2206,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#0679,"2,4-Diaminopyrimidine",156-81-0,C1=CN=C(N=C1N)N,67431,"2,4-Diaminopyrimidine",https://pubchem.ncbi.nlm.nih.gov/compound/67431,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#0716,Cytarabine,147-94-4,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O,6253,Cytarabine,https://pubchem.ncbi.nlm.nih.gov/compound/6253,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#0777,2-Aminoethyl Diphenylborinate,524-95-8,B(C1=CC=CC=C1)(C2=CC=CC=C2)OCCN,1598,2-Aminoethoxydiphenyl borate,https://pubchem.ncbi.nlm.nih.gov/compound/1598,PubChem PUG REST（按 CAS 查询）,CAS 一致且名称为同义命名,已获得,
+#0827,"2,4-Diamino-6-diethylamino-1,3,5-triazine",2073-31-6,CCN(CC)C1=NC(=NC(=N1)N)N,326489,"2,4-Diamino-6-diethylamino-1,3,5-triazine",https://pubchem.ncbi.nlm.nih.gov/compound/326489,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#1050,2-Hydrazinopyridine,4930-98-7,C1=CC=NC(=C1)NN,78645,2-Hydrazinopyridine,https://pubchem.ncbi.nlm.nih.gov/compound/78645,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
+#1118,N-Phenyldiethanolamine,120-07-0,C1=CC=C(C=C1)N(CCO)CCO,8416,N-Phenyl diethanolamine,https://pubchem.ncbi.nlm.nih.gov/compound/8416,PubChem PUG REST（按 CAS 查询）,CAS 一致且名称为同义命名,已获得,
+BA,Benzyl alcohol (BA),100-51-6,C1=CC=C(C=C1)CO,244,Benzyl Alcohol,https://pubchem.ncbi.nlm.nih.gov/compound/244,PubChem PUG REST（按 CAS 查询）,CAS 一致且名称为同义命名,已获得,
+VA,Veratryl alcohol (VA),93-03-8,COC1=C(C=C(C=C1)CO)OC,7118,Veratryl alcohol,https://pubchem.ncbi.nlm.nih.gov/compound/7118,PubChem PUG REST（按 CAS 查询）,CAS 与论文名称核对一致,已获得,
